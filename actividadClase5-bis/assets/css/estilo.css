@@ -1,0 +1,31 @@
+body {
+    background-image: url("../img/HD-wallpaper-closeup-of-world-globe.jpg");
+    text-align: center;
+    background-size: cover;
+    
+
+}
+img{
+    position: relative;
+width: 100%;
+height: 100%;
+}
+.box-consulta{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    color: blue;
+}
+.box-info{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+}
+#box-bandera{
+    height: 20%;
+    width: 25%;
+  position:absolute;
+top: 60%;
+left: 38%;}
